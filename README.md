@@ -19,8 +19,8 @@ Clone the repository and install the dependencies:
 
 bash
 Copy code
-git clone https://github.com/your-username/react-auth-router.git
-cd react-auth-router
+git clone https://github.com/SRYVPRASAD/react-atuh-routing.git
+cd react-auth-routing
 npm install # or 'yarn install'
 Running the Development Server
 After installing the dependencies, you can start the development server using:
