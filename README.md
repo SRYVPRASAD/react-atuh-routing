@@ -28,10 +28,10 @@ Clone the repository and install the dependencies:
 
 git clone https://github.com/SRYVPRASAD/react-atuh-routing.git
 cd react-auth-routing
-npm install # or 'yarn install'
 ```
-Running the Development Server
-After installing the dependencies, you can start the development server using:
+
+
+
 
 
 ### Running the Development Server
@@ -39,11 +39,10 @@ After installing the dependencies, you can start the development server using:
 After installing the dependencies, you can start the development server using:
 
 ```bash
-
+npm install # or 'yarn install'
 npm run dev # or 'yarn dev'
-This will start the Vite development server, and you can open the app at http://localhost:3000.
-
 ```
+This will start the Vite development server, and you can open the app at http://localhost:3000.
 
 ### Building for Production
 
@@ -110,38 +109,38 @@ The app uses Tailwind CSS for styling. Tailwind is configured and ready to use i
 
 2. Logout:
 
-- The user can logout by clicking on the "Logout" button.
-- After logging out, the user is redirected to the login page.
+   - The user can logout by clicking on the "Logout" button.
+   - After logging out, the user is redirected to the login page.
 
 ## Technologies Used
 
-- React - Front-end library
-- React Router - For routing
-- Zustand - For state management
-- Tailwind CSS - For styling
-- Vite - Development and build tool
-- TypeScript - For type safety and development
+   - React - Front-end library
+   - React Router - For routing
+   - Zustand - For state management
+   - Tailwind CSS - For styling
+   - Vite - Development and build tool
+   - TypeScript - For type safety and development
 
 ## Dependencies
 
 ### Dependencies:
 
-- `react`: For building user interfaces
-- `react-dom`: For DOM-specific methods
-- `react-router-dom`: For routing in React
-- `zustand`: For state management
-- `@headlessui/react`: For UI components like modal, dropdowns, etc.
-- `@heroicons/react`: For icons
+   - `react`: For building user interfaces
+   - `react-dom`: For DOM-specific methods
+   - `react-router-dom`: For routing in React
+   - `zustand`: For state management
+   - `@headlessui/react`: For UI components like modal, dropdowns, etc.
+   - `@heroicons/react`: For icons
 
 ### Dev Dependencies:
 
-- `typescript`: For TypeScript support
-- `vite`: For the build tool and dev server
-- `tailwindcss`: For utility-first CSS framework
-- `postcss`: For processing CSS with plugins
-- `autoprefixer`: For adding vendor prefixes
-- `eslint`: For linting the code
-- `@vitejs/plugin-react`: Vite plugin for React support
+   - `typescript`: For TypeScript support
+   - `vite`: For the build tool and dev server
+   - `tailwindcss`: For utility-first CSS framework
+   - `postcss`: For processing CSS with plugins
+   - `autoprefixer`: For adding vendor prefixes
+   - `eslint`: For linting the code
+   - `@vitejs/plugin-react`: Vite plugin for React support
 
 ## License
 
